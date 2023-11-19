@@ -1,0 +1,23 @@
+{
+  "name": "cch1",
+  "version": "1.0.0",
+  "description": "CCH1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Damagia/CCH1Arquitetura.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Damagia/CCH1Arquitetura/issues"
+  },
+  "homepage": "https://github.com/Damagia/CCH1Arquitetura#readme",
+  "devDependencies": {
+    "sucrase": "^3.34.0",
+    "typescript": "^5.2.2"
+  }
+}
